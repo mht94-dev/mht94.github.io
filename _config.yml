@@ -1,2 +1,10 @@
+#Site Settings
+title: Personal Homepage
+url: https://mht94.github.io
+
+
+
+#Build Settings
 name: Michael Tsehaie
 markdown: kramdown
+permalink: pretty
