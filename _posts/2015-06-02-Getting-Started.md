@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "My first Blog post (and website)!"
+comments: true
 date: 2015-06-02
 ---
 
-Well. Finally got around to creating a website. Currently, it's powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be! I'll look into Twitter Bootstrap and see if that is any better.
+Finally got around to creating my website. It's powered by [Jekyll](http://jekyllrb.com) and I use Markdown for my posts.  I'll look into adding Twitter Bootstrap to my site and see if that is any better.
 I should note that this [awesome tutorial](http://jmcglone.com/guides/github-pages/) helped build my first revision of this website.
