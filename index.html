@@ -4,10 +4,10 @@ title: Homepage
 ---
 
     <!-- Page Content -->
-    <div class="container">
+    <div class="row">
 
         <!-- Jumbotron Header -->
-        <div class="row">
+        <div class="row text-center">
           <div class = "col-md-8">
         <header class="jumbotron hero-spacer">
             <h1 style="text-align:center">Hello there!</h1>
@@ -27,15 +27,16 @@ title: Homepage
 
         <hr>
         <div class = "row">
-        <div class="alert alert-dismissible alert-warning">
-          <h3>Warning!</h3>
+        <div class="alert alert-dismissible alert-warning" role="alert">
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span></button>
+          <h3>Website Progress Bar</h3>
+          <div class="progress progress-striped active">
+            <div class="progress-bar" style="width: 41%"></div>
+          </div>
           <p>This website is about 40.59% done. Please browse with caution!</p>
         </div>
       </div>
-        <h4> Website Progress Bar</h4>
-        <div class="progress progress-striped active">
-  <div class="progress-bar" style="width: 41%"></div>
-</div>
 
         <!-- Title -->
         <div class="row">
